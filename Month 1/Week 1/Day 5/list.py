@@ -24,3 +24,6 @@ print(my_list)
 
 my_list.pop(0)               # Remove element at index 0 ('apple')
 print(my_list)
+
+# Length
+print(len(my_list))
