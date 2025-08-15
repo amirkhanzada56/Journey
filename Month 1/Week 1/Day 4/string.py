@@ -1,9 +1,7 @@
 # String
-
 str = "Python"
 
 # Indexing
-
 """
 Positve start with 0
 Negative start with -1
@@ -15,7 +13,6 @@ print(str[5])      # n
 print(str[-1])     # n
 
 # Slicing
-
 text = "Python"
 
 print(str[0:3])        # Pyt
@@ -27,9 +24,6 @@ print(str[0::2])       # Pto
 print(str[::-1])       # nohtyP
 
 # Methods
-
-# String Method
-
 msg = "Hello World"
 
 print(len(msg))                     # 11
